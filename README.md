@@ -1,2 +1,2 @@
 # Actividad
-Matriz de casos de prueba
+Matriz de evidencia casos de prueba
