@@ -1,2 +1,2 @@
 # Actividad
-Repositorio actividad con Git y GitHub
+Matriz de casos de prueba
